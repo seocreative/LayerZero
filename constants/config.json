@@ -1,5 +1,5 @@
 {
-  "chainAddressSize": 20,
+  "chainAddressSize": 21,
   "defaultConfigForChain": {
     "inboundBlockConfirmations": 4,
     "outboundBlockConfirmations": 4,
